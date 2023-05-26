@@ -1,0 +1,14 @@
+def addition(num1,num2):
+    return num1+num2
+def subtraction(num1,num2):
+    return num1-num2
+def multiplication(num1,num2):
+    return num1*num2
+def division(num1,num2):
+    return num1/num2
+def moudlo(num1,num2):
+    return num1%num2
+def exponent(num1,num2):
+    return num1**num2
+def floor(num1,num2):
+    return num1//num2
